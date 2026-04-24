@@ -1,4 +1,4 @@
-## **DSA3020 VA Capstone Project**
+## *Weekly  Maize Prices Forecasting .*
 ### Project Overview
 
 This project aims to **predict weekly average maize prices** in selected counties in Kenya using historical retail and wholesale price data. The project applies **machine learning** to forecast prices, helping farmers, traders, and policymakers make informed decisions.
