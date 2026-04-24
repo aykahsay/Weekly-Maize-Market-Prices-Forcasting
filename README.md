@@ -134,7 +134,7 @@ This project forecasts weekly white maize prices in selected Kenyan counties (Ki
 ## Folder Structure
 
 ```
-DSA3020-VA-Capstone-Project/
+Capstone-Project/
 │
 ├─ DATA/
 │   ├─ raw/
